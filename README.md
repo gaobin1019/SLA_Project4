@@ -1,5 +1,3 @@
-<snippet>
-  <content><![CDATA[
 ## TaoBot
 This is an chatbot app that talk with users using Tao Te Ching quotes.
 ## Installation
@@ -23,6 +21,3 @@ TODO: Write history
 TODO: Write credits
 ## License
 TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
