@@ -31,3 +31,7 @@ By using this app, the input is limited because only the sentences that contains
 
 ## Developer’s point of view
 Api.ai makes developing front end really fast and effective. We used flask and Python to build the backend of the app. We also used SQLAlchemy as a tool to bind tables to objects which helps a lot when programming the data.
+## Time
+| 	 	| Estimated Time|
+|-------|---------------|
+|Member1|	   5		|
