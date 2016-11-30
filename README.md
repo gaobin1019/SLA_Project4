@@ -3,6 +3,7 @@
 This is an chatbot app that talk with users using Tao Te Ching quotes.
 ## Installation
 Go to URL with any browser that voice input is supported by API.ai.
+https://bot.api.ai/87ab5653-cf1f-45d3-9db7-eef32fb89caf
 ## Usability tests scripts
 1. User say “Hi”, bot should greeting using quotes.
 2. User say something about “love”, bot should reply some quotes related to “love”.
@@ -40,4 +41,4 @@ Api.ai makes developing front end really fast and effective. We used flask and P
 | 	 	| Actual Research	| Actual Design    |Actual implementation	 |Actual testing 	| Total |
 |-------|-------------------|------------------|-------------------------|------------------|-------|
 |Bin	|	   1			|		2		   |			10			 |		5			|   18	|
-|Nikki	|	   8			|		2		   |						 |					|		|
+|Nikki	|	   8			|		2		   |			15			 |		4			|	29	|
