@@ -48,8 +48,10 @@ Developer’s point of view
 	Api.ai makes developing front end really fast and effective. We used flask and Python to build the backend of the app. We also used SQLAlchemy as a tool to bind tables to objects which helps a lot when programming the data.
 
 
-Time
-| 		        | EstimatedResearch		| EstimateDesign|  
-| ------------- |:-------------:		| -----:		|
-| Team member 1 | 5 					| 2		 		|
-| Team member 2 | 			      		|   	 		|
+	<dl>
+	  <dt>Definition list</dt>
+	  <dd>Is something people use sometimes.</dd>
+
+	  <dt>Markdown in HTML</dt>
+	  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+	</dl>
