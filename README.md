@@ -34,10 +34,10 @@ Api.ai makes developing front end really fast and effective. We used flask and P
 ## Time
 | 	 	| Estimated Research| Estimated Design |Estimated implementation |Estimated testing |
 |-------|-------------------|------------------|-------------------------|------------------|
-|Member1|	   5			|		2		   |			10			 |		10			|	  
-|Member2|	   				|				   |						 |					|
+|Bin	|	   5			|		2		   |			10			 |		10			|	  
+|Nikki	|	   				|				   |						 |					|
 
 | 	 	| Actual Research	| Actual Design    |Actual implementation	 |Actual testing 	| Total |
 |-------|-------------------|------------------|-------------------------|------------------|-------|
-|Member1|	   1			|		2		   |			10			 |		5			|   18	|
-|Member1|	   				|				   |						 |					|		|
+|Bin	|	   1			|		2		   |			10			 |		5			|   18	|
+|Nikki	|	   				|				   |						 |					|		|
